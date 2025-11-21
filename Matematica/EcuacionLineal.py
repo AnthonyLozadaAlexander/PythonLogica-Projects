@@ -14,7 +14,7 @@ try:
     a = float(input("Ingrese el valor de A: "))
     x = calcularEcuacion(b, a)
     
-    if(x is str):#{
+    if(x is str):#{ #si x es str
         print(x)
     #}
     else:#{
