@@ -1,3 +1,5 @@
+
+
 def calcularEcuacion(b, a):
     if a == 0:
         return "Error: La Pendiente No Puede Ser Cero"
@@ -15,7 +17,7 @@ try:
     x = calcularEcuacion(b, a)
     
     if(a == 0):#{ 
-        print("Error: La Pendiente No Puede Ser Cero Ñaño")
+        print("Error: La Pendiente No Puede Ser Cero")
     #}
     else:#{
         print("---------------------------------------------------")
