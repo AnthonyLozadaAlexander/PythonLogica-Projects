@@ -14,8 +14,8 @@ try:
     a = float(input("Ingrese el valor de A: "))
     x = calcularEcuacion(b, a)
     
-    if(x is str):#{ #si x es str
-        print(x)
+    if(a == 0):#{ 
+        print("Error: La Pendiente No Puede Ser Cero Ñaño")
     #}
     else:#{
         print("---------------------------------------------------")
