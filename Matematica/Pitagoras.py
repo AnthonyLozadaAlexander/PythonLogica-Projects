@@ -1,4 +1,5 @@
 import math
+import re
 
 def calcularP(a, b):
     c = math.sqrt(a**2 + b**2)
@@ -23,11 +24,17 @@ print("---------------------------------------------------")
 if(isNumber(a) and isNumber(b)):
     a = float(a)
     b = float(b)
-    c = calcularP(a, b)
-    print("Catetos Ingresados Correctamente")
+
+    if(a <= 0 or b <= 0):
+        print("Error: Los Catetos Deben Ser Mayores A Cero")
+        exit()
+    else:
+        c = calcularP(a, b)
+        print("Catetos Ingresados Correctamente")
+        print("---------------------------------------------------")
+        print(f"El valor de la hipotenusa es: {c}")
+        print("---------------------------------------------------")
 else:
     print("Error: Los Catetos Ingresados No Son Numeros Validos")
 
-print("---------------------------------------------------")
-print(f"El valor de la hipotenusa es: {c}")
-print("---------------------------------------------------")
+
