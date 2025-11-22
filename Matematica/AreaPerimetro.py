@@ -10,3 +10,4 @@ pi = 3.1416
 print("---------------------------------------------------")
 print("        Calculadora de Area y Perimetro            ")
 print("---------------------------------------------------")
+opcion = input("Ingrese 'A' para calcular Area o 'P' para calcular Perimetro: ")
