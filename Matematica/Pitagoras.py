@@ -29,3 +29,5 @@ else:
     print("Error: Los Catetos Ingresados No Son Numeros Validos")
 
 print("---------------------------------------------------")
+print(f"El valor de la hipotenusa es: {c}")
+print("---------------------------------------------------")
