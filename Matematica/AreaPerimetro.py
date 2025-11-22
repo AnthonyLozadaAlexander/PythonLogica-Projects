@@ -12,11 +12,13 @@ print("        Calculadora de Area y Perimetro            ")
 print("---------------------------------------------------")
 r = float(input("Ingrese el valor del radio: "))
 opcion = input("Ingrese 'A' para calcular Area o 'P' para calcular Perimetro: ")
-
+print("---------------------------------------------------")
 match opcion.upper():
     case 'A':
-        calcularArea(pi, r)
+        area = calcularArea(pi, r)
+        print("El area es: ", area)
     case 'P':
-        calcularPerimetro(pi, r)
+        perimetro = calcularPerimetro(pi, r)
+        print("El perimetro es: ", perimetro)
     case _:
         print("Opcion No Valida")
