@@ -1,3 +1,4 @@
+import sys
 import math
 import re
 
@@ -27,7 +28,7 @@ if(isNumber(a) and isNumber(b)):
 
     if(a <= 0 or b <= 0):
         print("Error: Los Catetos Deben Ser Mayores A Cero")
-        exit()
+        sys.exit()
     else:
         c = calcularP(a, b)
         print("Catetos Ingresados Correctamente")
