@@ -1,3 +1,7 @@
+def calcularTiempo(d, v):
+    t = d / v
+    return t
+
 def mostrarLinea():
     print("==============================================================="  )
 
@@ -13,7 +17,7 @@ tMax = 4 #hras # si la sonda llega a tardar mas de 4 horas, el asteoride ya no s
 print(f"  Tiempo Maximo Para Interceptar Al Asteoride: {tMax}\n")
 
 on = False
-while(on == False):
+while(not on):
     d = float(input("   Ingrese la distancia de la sonda al asteroide en km: "))
 
     if(d <= 0):
@@ -27,10 +31,10 @@ while(on == False):
         else:
             on = True
 
-t = d / v
+t = calcularTiempo(d, v)
 
 # .2f es para redondear a 2 decimales
-print(f"   Tiempo Estimado Para Interceptar Al Asteoride: {t} horas\n")
+print(f"   Tiempo Estimado Para Interceptar Al Asteoride: {t: .2f} horas\n")
 
 if(t == tMax):
     print("   La sonda llegara justo a tiempo para interceptar al asteroide")
