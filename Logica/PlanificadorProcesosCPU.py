@@ -23,7 +23,6 @@ E = [5, 3, 6] # arreglo de procesos
 TE = [0] * len(E) # asignarle la longitud al arreglo
 
 menu(E)
-
 countE = 0
 
 for i in range(len(E)):
