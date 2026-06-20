@@ -7,11 +7,23 @@ def ordenarM(M):
                 M[j+1] = temp
     
 
+def mostrarArr(M):
+    for i in range(len(M)):
+        print(f"Masa[{i}]: {M[i]}")
+    
+    
+
 
 M = [8, 3, 5, 1]
+
+print(" Masa De Explanetas ")
+
+mostrarArr(M)
 ordenarM(M)
 
-for i in range(len(M)):
-    print(M[i])
+print("\n Ordenando Masas De Exoplanetas ")
+
+mostrarArr(M)
+
 
 
