@@ -1,3 +1,4 @@
+# funcion recursiva que imprime una cuenta regresiva desde n hasta 0
 def cuentaRegresiva(n):
     if(n <= 0):
         print("Despegue!")

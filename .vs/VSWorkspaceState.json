@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Logica",
-    "\\Matematica"
+    "\\Matematica",
+    "\\Recursividad"
   ],
-  "SelectedNode": "\\Logica\\SimuladorVuelo.py",
+  "SelectedNode": "\\Recursividad\\E6.py",
   "PreviewInSolutionExplorer": false
 }

@@ -33,6 +33,7 @@ while(not on):
 
 t = calcularTiempo(d, v)
 
+
 # .2f es para redondear a 2 decimales
 print(f"   Tiempo Estimado Para Interceptar Al Asteoride: {t: .2f} horas\n")
 

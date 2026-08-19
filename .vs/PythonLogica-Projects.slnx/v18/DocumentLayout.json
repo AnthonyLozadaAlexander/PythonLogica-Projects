@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Logica\\SimuladorVuelo.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Logica\\SimuladorVuelo.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Logica\\ConversorTemperatura.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Logica\\ConversorTemperatura.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Logica\\Hipotenusa.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Logica\\Hipotenusa.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Logica\\SaludoFormateado.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Logica\\SaludoFormateado.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Matematica\\AreaPerimetro.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Matematica\\AreaPerimetro.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Matematica\\EcuacionLineal.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Matematica\\EcuacionLineal.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Matematica\\Pitagoras.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Matematica\\Pitagoras.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Matematica\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Matematica\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Recursividad\\E6.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Recursividad\\E6.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,114 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SimuladorVuelo.py",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Logica\\SimuladorVuelo.py",
-              "RelativeDocumentMoniker": "Logica\\SimuladorVuelo.py",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Logica\\SimuladorVuelo.py",
-              "RelativeToolTip": "Logica\\SimuladorVuelo.py",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-06-13T06:14:40.853Z",
+              "Title": "E6.py",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Recursividad\\E6.py",
+              "RelativeDocumentMoniker": "Recursividad\\E6.py",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Recursividad\\E6.py",
+              "RelativeToolTip": "Recursividad\\E6.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALmSURBVDhPrZTfa1tlGMc/7zknv3NOkjVJu/RkpUg7uqyxShErVKXMwnT\u002BwO1ieOff4P/g5ZjgnRciMu9E74UhFAWH1DVNI9Y2/bXZhKU5ydLTLudHXi80kroMb/zCc/E8z/f74eXl5YX/Q1JKMdgvLCzcnpiYeG9w9m8JIe5UKpXP19bWtgbn2mATDofTy8vLF\u002Bbn5wfH/6hcLlOv169ms9mOqqrfrK6u/tbfqYPGycnJ95eWlmanpqawbXtwRT6fp91uk8vl9NHR0RHP83Bdt1ar1SwA5Yz7b2maRjQaPVOK8pfVcZxYMBi8ZJrmFdM0X\u002BhnhoKEEKiqeqYkglQ6ixaOoidS8fHxcRPI9TNDQd1ul1arRavVwrIsdv5osFnr0FRSnMZMeqkLxDJ5LZlMhvuZM5fdVzweJxQKAeD1JPVDh\u002B/XH7Fx0KTVOSEWgNmMGrtUKIz1M0NPZFkWGxsV1ssbrJUrHDSOcRwX6fn0PI9m28Y6dcMjmXTWMKK6YRiBoaB0Os3Fy0W0sWnud86x37RxfZ8RXSOige\u002B7JKJPEjffyt7YK3/2y95O5eZQkGVZ/LS\u002ByberNe5VG5R2GlT2G1QPmzy2T/BdF\u002BG3RUTZCyaCW2Yi\u002BOCjoaB4PE4knqRab9M5eYLrOLyYV7hSCHBtLsyHr8V5e85DcXfBbQRwH14cCup2uxwfH\u002BN7LkJ6vDsnuV7c5frlLW48v8M7hW2K2X2EewSeLZCeNhQkhECPBMinIig9h9enXQrZQ6ZSBzyX3CUXqRLlIXg2SN9DO18dCtJ1nZlJkzdmz/PqzBgZXaIJH3ou9CRIFdRMi9jLJWKv3CM0/cVT7\u002Bjo6Ijt7W0ApnWVmWISI9yU4tQB71Sg6KDoEC4\u002BeBx486tSqfQ7bH73n99IJBLkk48/CMX8uwnh1IIQEqjnPGIv3f/h1\u002Byni4uLXw76nynDMDTLal6V9s8/yubXtnx0x5Gtu2XZPby1srKy1Pf9CbDGIodTYeM3AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-08-12T04:57:50.624Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Hipotenusa.py",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Logica\\Hipotenusa.py",
-              "RelativeDocumentMoniker": "Logica\\Hipotenusa.py",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Logica\\Hipotenusa.py",
-              "RelativeToolTip": "Logica\\Hipotenusa.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-06-13T06:08:40.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ConversorTemperatura.py",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Logica\\ConversorTemperatura.py",
-              "RelativeDocumentMoniker": "Logica\\ConversorTemperatura.py",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Logica\\ConversorTemperatura.py",
-              "RelativeToolTip": "Logica\\ConversorTemperatura.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-05-24T03:13:05.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Pitagoras.py",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Matematica\\Pitagoras.py",
-              "RelativeDocumentMoniker": "Matematica\\Pitagoras.py",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Matematica\\Pitagoras.py",
-              "RelativeToolTip": "Matematica\\Pitagoras.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-05-24T03:13:03.179Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AreaPerimetro.py",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Matematica\\AreaPerimetro.py",
-              "RelativeDocumentMoniker": "Matematica\\AreaPerimetro.py",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Matematica\\AreaPerimetro.py",
-              "RelativeToolTip": "Matematica\\AreaPerimetro.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-05-24T03:13:01.508Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": ".gitkeep",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Matematica\\.gitkeep",
-              "RelativeDocumentMoniker": "Matematica\\.gitkeep",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Matematica\\.gitkeep",
-              "RelativeToolTip": "Matematica\\.gitkeep",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-24T03:13:01.018Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SaludoFormateado.py",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Logica\\SaludoFormateado.py",
-              "RelativeDocumentMoniker": "Logica\\SaludoFormateado.py",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Logica\\SaludoFormateado.py",
-              "RelativeToolTip": "Logica\\SaludoFormateado.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-05-24T03:12:59.763Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EcuacionLineal.py",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Matematica\\EcuacionLineal.py",
-              "RelativeDocumentMoniker": "Matematica\\EcuacionLineal.py",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\PythonLogica-Projects\\Matematica\\EcuacionLineal.py",
-              "RelativeToolTip": "Matematica\\EcuacionLineal.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-05-24T03:12:53.948Z"
             }
           ]
         }

@@ -1,5 +1,4 @@
-
-
+# funcion recursiva que calcula el factorial de un numero
 def funcion(n):
     if(n == 1):
         return 1
