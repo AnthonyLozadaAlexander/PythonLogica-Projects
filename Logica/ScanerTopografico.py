@@ -11,5 +11,5 @@ for i in range(len(M)):
     if(count < len(M)):
         count = count + 1
         
-print(f"Resultado de sumar la diagonal secundaria: {sum}")
+print(f"La sumatoria de las altitudes de las montañas opuesta es: {sum}")
 
