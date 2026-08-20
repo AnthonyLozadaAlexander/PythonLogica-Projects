@@ -1,5 +1,4 @@
 
-
 #Algoritmo Recursivo para determinar si una palabra es palindromo o no
 
 def esPalindromo(palabra: str, pointerLeft : int,  pointerRight : int) -> bool:
