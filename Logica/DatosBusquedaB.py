@@ -12,11 +12,10 @@ def busquedaBinaria(A, T):
 	punteroDer = (len(A) - 1)  # [8]
 	encontrado = False
 
-	while (punteroIzq <= punteroDer):
+	while (punteroIzq <= punteroDer) and (not encontrado):
 		medio = ((punteroIzq + punteroDer) // 2)
 		if (A[medio] == T):
 			encontrado = True
-			break
 		elif (A[medio] < T):
 			punteroIzq = (medio + 1)
 		else:
@@ -30,6 +29,7 @@ print("Datos En La Base De Datos")
 imprimirVector(A)
 print(f"\nDato a Buscar En La Base De Datos: {T}")
 encontrado = busquedaBinaria(A, T)
+
 if(encontrado):
 	print(f"\nEl Dato {T} fue encontrado en la base de datos")
 else:
