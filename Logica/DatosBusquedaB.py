@@ -10,13 +10,14 @@
 def busquedaBinaria(A, T):
 	punteroIzq = 0  # [0]
 	punteroDer = (len(A) - 1)  # [8]
+	encontrado = False
 
-	while (punteroIzq < punteroDer):
-		encontrado = False
+	while (punteroIzq <= punteroDer):
 		medio = ((punteroIzq + punteroDer) // 2)
 		if (A[medio] == T):
 			encontrado = True
-		if (A[medio] < T):
+			break
+		elif (A[medio] < T):
 			punteroIzq = (medio + 1)
 		else:
 			punteroDer = (medio - 1)
