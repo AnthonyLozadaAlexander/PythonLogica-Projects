@@ -17,7 +17,7 @@ def valorMaximo(Arr, Copia, count):
         
     return result
 
-A = [6, 0, 9, 4, 7]
+A : int = [6, 0, 9, 4, 7]
 Copia = A.copy()
 print(f"El valor maximo del arreglo es: {valorMaximo(A, Copia, 0)}")
 
