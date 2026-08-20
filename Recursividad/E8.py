@@ -1,3 +1,7 @@
+
+
+#Algoritmo Recursivo para determinar si una palabra es palindromo o no
+
 def esPalindromo(palabra: str, pointerLeft : int,  pointerRight : int) -> bool:
 	on: bool = True
 	if ((pointerLeft < pointerRight) and (on)):
@@ -22,3 +26,6 @@ if(esPalindromo2):
 	print(f"\n La palabra {palabra2} es palindromo")
 else:
 	print(f"\n La palabra {palabra2} no es palindromo")
+ 
+ 
+
