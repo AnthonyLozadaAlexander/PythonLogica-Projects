@@ -1,4 +1,4 @@
-def imprimirMatriz(M):
+def imprimirMatriz(M : list[list[int]]) -> None:
     print("[", end = "")
     for i in range(len(M)):
         for j in range(len(M[i])):
