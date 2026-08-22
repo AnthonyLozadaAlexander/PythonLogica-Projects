@@ -1,4 +1,8 @@
-﻿def imprimirVector(arr):
+﻿from typing import TypeVar
+
+T = TypeVar('T')
+
+def imprimirVector(arr : list[T]) -> None:
 	print("[ ", end="")
 	for i in range(len(arr)):
 		if (i < len(arr) - 1):
@@ -7,7 +11,7 @@
 			print(f" {arr[i]}", end="")
 	print(" ]", end="")
 
-def imprimirMatriz(M):
+def imprimirMatriz(M : list[list[T]]) -> None:
 	print("[", end="")
 	for i in range(len(M)):
 		for j in range(len(M[i])):
